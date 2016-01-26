@@ -1,0 +1,1 @@
+![string](https://github.com/moneyache/document/blob/master/string.png)
